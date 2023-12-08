@@ -21,11 +21,13 @@ All the data in that table was ok
 - I replaced the M with Male and F with Female in the gender column
   
 ![](Gender_Column.png)
+
 ![](M_To_Male.png)
 
 ![](F_To_Female.png)
 
 The Transformed Table
+
 ![](Transformed_Gender_Column.png)
 
 - In the Date of birth column, there i notice there a little mistake.Some of the year was 9999 instead of 1999, so i used the Find and replace icon.
